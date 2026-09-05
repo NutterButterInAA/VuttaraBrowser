@@ -1,4 +1,4 @@
-# Vuttara Browser â€” Public Releases
+# Vuttara Browser - Public Releases
 
 This repository is the public distribution endpoint for **Vuttara Browser**.
 
@@ -6,13 +6,24 @@ The development source repository is private. Public users can download verified
 
 ## Current stable release
 
-**Vuttara Browser 0.1.0**
+**Vuttara Browser 0.2.0**
 
-- Windows x64 installer: `Vuttara-Browser-0.1.0-x64.exe`
-- SHA-256: `6CCAB3F7F4CE7B744507ED28CF6399C99F5920517B29B226F3D85954E0005EA2`
+- Windows x64 installer: `Vuttara-Browser-0.2.0-x64.exe`
+- SHA-256: `BC879461FF560837A67B79D14544F8F08ADD1B2BCA5CC7547E94D95ED254308D`
 - Website: https://www.nuttabuttainaa.com/vuttara/browser/
+- Microsoft Store: https://apps.microsoft.com/detail/9NQ11CCWPNZ3
 - Releases: https://github.com/NutterButterInAA/VuttaraBrowser/releases
 
-The direct installer is currently unsigned, so Windows may show an unknown-publisher or reputation warning. Verify the SHA-256 before installation.
+### 0.2.0 highlights
 
-Microsoft Store packaging is handled separately.
+- Lower background resource usage and improved streaming behavior
+- Kick/Twitch one-time 160p default when available
+- Vuttara network/error pages
+- Vertical-tab and omnibox/autocomplete improvements
+- Customizable New Tab dashboard
+- Branded creator popout windows
+- Duplicate-tab icon, live count, manual close and automatic-close setting
+
+The direct GitHub installer is unsigned, so Windows may show an unknown-publisher or reputation warning. Verify the published SHA-256 before installing.
+
+Microsoft Store packages are distributed and updated through Microsoft Store.
