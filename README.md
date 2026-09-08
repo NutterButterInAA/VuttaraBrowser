@@ -8,10 +8,10 @@ The development source repository is private. Public users can download verified
 
 **Vuttara Browser 0.3.2**
 
-- Windows x64 installer: Vuttara-Browser-0.3.2-x64.exe
-- Installer SHA-256: $fullHash
-- Updater installer: Vuttara-Browser-0.3.2-Update-Installer-x64.exe
-- Updater SHA-256: $updaterHash
+- Windows x64 installer: `Vuttara-Browser-0.3.2-x64.exe`
+- Installer SHA-256: `0DBF94411B440DB4D8F558E857437431C39FD6D4F39201ECECE467656CA02AD0`
+- Updater installer: `Vuttara-Browser-0.3.2-Update-Installer-x64.exe`
+- Updater SHA-256: `C96FFF514A65AE62BDEB117F4437876824DFB3B2440A6196F79110D8C104CD23`
 - Website: https://www.nuttabuttainaa.com/vuttara/browser/
 - Microsoft Store: https://apps.microsoft.com/detail/9NQ11CCWPNZ3
 - Releases: https://github.com/NutterButterInAA/VuttaraBrowser/releases
@@ -20,7 +20,7 @@ The development source repository is private. Public users can download verified
 
 - Extension Store update reliability, history, and background state improvements
 - Extension Store search, filtering, sorting, and result-count controls
-- Extension popup external-link and chrome.tabs.create() compatibility
+- Extension popup external-link and `chrome.tabs.create()` compatibility
 - MissXss "Connect with Kick" compatibility repair
 - Adaptive horizontal tab sizing with compact hover/focus Close Tab controls
 - Preserved tab mute/unmute behavior
